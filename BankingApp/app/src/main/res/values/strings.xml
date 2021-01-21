@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Piggy Bank</string>
+    <string name="banking">Banking</string>
+    <string name="dash">-----</string>
+    <string name="app">App</string>
+    <string name="thesparkfoundation">TheSparkFoundation</string>
+    <string name="credit">\@DomanMurmu</string>
+    <string name="send_to_title">Select a user to transfer money</string>
+    <string name="balance">balance</string>
+    <string name="phoneno">phoneno</string>
+    <string name="username">UserName</string>
+</resources>
